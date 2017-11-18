@@ -38,6 +38,9 @@ public class CreateAccountPage extends WebDriverCode implements CreateAccountPro
 	public String getLastNameValue() {
 		return getAttribute(PI_LastNameLocator,"value");
 	}
+	public void test() {
+		
+	}
 
 
 
